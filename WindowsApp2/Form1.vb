@@ -5,5 +5,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Label1.Text = DateString + " " + TimeString
+        Label1.Text = DateString + " " + TimeString
+
     End Sub
 End Class
